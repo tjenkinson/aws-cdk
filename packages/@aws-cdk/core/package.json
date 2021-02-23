@@ -185,7 +185,7 @@
     "@aws-cdk/cloud-assembly-schema": "0.0.0",
     "@aws-cdk/cx-api": "0.0.0",
     "@aws-cdk/region-info": "0.0.0",
-    "constructs": "^3.2.0",
+    "constructs": "^3.3.37",
     "fs-extra": "^9.0.1",
     "minimatch": "^3.0.4",
     "@balena/dockerignore": "^1.0.2",
@@ -201,7 +201,7 @@
   "peerDependencies": {
     "@aws-cdk/cloud-assembly-schema": "0.0.0",
     "@aws-cdk/cx-api": "0.0.0",
-    "constructs": "^3.2.0",
+    "constructs": "^3.3.37",
     "@aws-cdk/region-info": "0.0.0"
   },
   "engines": {
