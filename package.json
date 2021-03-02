@@ -21,7 +21,7 @@
     "jsii-diff": "^1.14.1",
     "jsii-pacmak": "^1.14.1",
     "jsii-rosetta": "^1.14.1",
-    "lerna": "^3.22.1",
+    "lerna": "^4.0.0",
     "standard-version": "^9.0.0",
     "typescript": "~3.9.7"
   },
